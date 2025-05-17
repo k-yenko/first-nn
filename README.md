@@ -1,6 +1,6 @@
 # logs
 
-# understanding dataset distributions, experimental setup and scoring system
+## understanding dataset distributions, experimental setup and scoring system
 Weng, C., Faure, A.J., Escobedo, A. et al. The energetic and allosteric landscape for KRAS inhibition. Nature 626, 643–652 (2024). https://doi.org/10.1038/s41586-023-06954-0
 
 what they found: most allosteric mutations weaken KRAS bidning to partners; some selectively weaken only certain partners -> may be possible to fine-tune which downstream pathway is dialed down
