@@ -50,7 +50,7 @@ def parse_hgvs(hgvs_str):
     return None, None, None
 
 # parse and create feature cols
-combined_raf_df[['WT', 'position', 'mut']] = combined_raf_df.apply(lambda row: pd.Series(parse_hgvs(row['hgvs_pro'])), axis=1)
+combined_raf_df[['wt', 'position', 'mut']] = combined_raf_df.apply(lambda row: pd.Series(parse_hgvs(row['hgvs_pro'])), axis=1)
 
 # save
 combined_raf_df.to_csv('data/processed/raf_features.csv', index=False)

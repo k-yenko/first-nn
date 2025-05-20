@@ -1,4 +1,4 @@
-accession,hgvs_pro,score,SE,block,urn,category,partner,WT,position,mut,cluster
+accession,hgvs_pro,score,SE,block,urn,category,partner,wt,position,mut,cluster
 urn:mavedb:00000115-a-22#1,p.Thr2Lys,0.0279218242477616,0.0032715244415734,1,urn:mavedb:00000115-a-22,binding_fitness,RAF1RDB,T,2.0,K,0
 urn:mavedb:00000115-a-22#2,p.Glu3Lys,-0.0948949677130833,0.0324143612715633,1,urn:mavedb:00000115-a-22,binding_fitness,RAF1RDB,E,3.0,K,0
 urn:mavedb:00000115-a-22#3,p.Glu3Asn,-0.254281552848539,0.0239070701491297,1,urn:mavedb:00000115-a-22,binding_fitness,RAF1RDB,E,3.0,N,0
@@ -14799,7 +14799,7 @@ urn:mavedb:00000115-a-25#753,p.Val103Cys,-0.0240703132995274,0.0237629728615937,
 urn:mavedb:00000115-a-25#754,p.Arg102Ile,-0.134126671461079,0.0320652890752788,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,I,0
 urn:mavedb:00000115-a-25#755,p.Arg102Gln,-0.111337073521964,0.0494726511440525,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,Q,0
 urn:mavedb:00000115-a-25#756,p.Arg102His,-0.0465432913505278,0.0302837390981819,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,H,0
-urn:mavedb:00000115-a-25#757,p.Arg102Pro,-0.489052521826424,0.0433279912329479,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,P,0
+urn:mavedb:00000115-a-25#757,p.Arg102Pro,-0.489052521826424,0.0433279912329479,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,P,1
 urn:mavedb:00000115-a-25#758,p.Arg102Leu,-0.104994986201726,0.0192637523635365,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,L,0
 urn:mavedb:00000115-a-25#759,p.Arg102Glu,-0.0370184485429874,0.039465201684578,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,E,0
 urn:mavedb:00000115-a-25#760,p.Arg102Asp,-0.210621087324903,0.0710851596315406,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,R,102.0,D,0
@@ -15439,7 +15439,7 @@ urn:mavedb:00000115-a-25#1393,p.[Ala66Pro;Glu98Pro],-0.803666909394316,0.1304855
 urn:mavedb:00000115-a-25#1394,p.[Ala66Pro;Glu98Leu],-0.479849064506822,0.0331059783164305,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,0
 urn:mavedb:00000115-a-25#1395,p.[Ala66Pro;Ile100Asn],-0.247688652781723,0.0572980795345155,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,0
 urn:mavedb:00000115-a-25#1396,p.[Ala66Pro;Ile100Thr],-0.215944607520076,0.0512335777126511,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,0
-urn:mavedb:00000115-a-25#1397,p.[Ala66Pro;Ile100Ser],-0.489146423686546,0.0746500774164507,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,0
+urn:mavedb:00000115-a-25#1397,p.[Ala66Pro;Ile100Ser],-0.489146423686546,0.0746500774164507,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,1
 urn:mavedb:00000115-a-25#1398,p.[Ala66Pro;Ile100Met],-0.051387260608565,0.0579379681990843,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,0
 urn:mavedb:00000115-a-25#1399,p.[Ala66Pro;Arg102Thr],-0.147123811573998,0.0331445140851614,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,0
 urn:mavedb:00000115-a-25#1400,p.[Ala66Pro;Val103Lys],-0.190189230526592,0.0866036163998039,2,urn:mavedb:00000115-a-25,binding_fitness,RAF1RDB,,,,0

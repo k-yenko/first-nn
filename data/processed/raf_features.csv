@@ -1,4 +1,4 @@
-accession,hgvs_pro,score,SE,block,urn,category,partner,WT,position,mut
+accession,hgvs_pro,score,SE,block,urn,category,partner,wt,position,mut
 urn:mavedb:00000115-a-22#1,p.Thr2Lys,0.0279218242477616,0.0032715244415734,1,urn:mavedb:00000115-a-22,binding_fitness,RAF1RDB,T,2.0,K
 urn:mavedb:00000115-a-22#2,p.Glu3Lys,-0.0948949677130833,0.0324143612715633,1,urn:mavedb:00000115-a-22,binding_fitness,RAF1RDB,E,3.0,K
 urn:mavedb:00000115-a-22#3,p.Glu3Asn,-0.254281552848539,0.0239070701491297,1,urn:mavedb:00000115-a-22,binding_fitness,RAF1RDB,E,3.0,N
