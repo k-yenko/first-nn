@@ -18,8 +18,14 @@ for binding fitness data, all partners seem to present a bimodal distribution, w
 * block as categorical feature?
 * block 1 weights different in model architecture?
 
-Binding fitness of KRAS-RAF1, block 1
+### distribution of binding fitness scores of KRAS-RAF1, block 1
 ![Alt text](figures/urn_mavedb_00000115-a-22_distribution.png)
+
+### distribution of binding fitness scores of KRAS-RAF1, block 2
+![Alt text](figures/urn_mavedb_00000115-a-25_distribution.png)
+
+### distribution of binding fitness scores of KRAS-RAF1, block 3
+![Alt text](figures/urn_mavedb_00000115-a-24_distribution.png)
 
 ## choosing a "partner"
 i used RAF1RDB as a starting point. this was kind of an arbitrary choice, but also because disruptions in the KRAS-RAF1 are relatively well-documented so in case i decide to probe this path further, there's some helpful literature. 
