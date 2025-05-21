@@ -70,7 +70,7 @@ Target stats: -1.45034831532026 0.285723457825962 -0.45698406900606603 0.3986393
 * relatively low MAE suggests the model can capture meaningful patterns in how mutations (single and double) affect KRAS-RAF1RDB binding
 
 ## further improvements
-1. model complexity: i did one of the more simple sequential NN architectures (linear layers - reLU activations - dropout), but i could probably improve performance by experimenting with more complex architectures
+1. model complexity: i used one of the more simple sequential NN architectures (linear layers - reLU activations - dropout), but could probably improve performance by experimenting with more complex architectures or training on more data
 2. feature importance: look into which features (positions, AAs, mutation count) are most influential (maybe using SHAP to quantify the contribution of each feature to the prediction)
 3. error analysis: which mutants have the largest errors (i.e. positional, double mutants, etc.)?
 4. biological validation: compare known disruptive KRAS mutations vs. those that are just benign with the predictions of the model
