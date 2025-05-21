@@ -35,7 +35,8 @@ i realized the solution was simple (and an oversight on my part): i forgot the d
 3. added mutation count feature: single v. double mutants have different impacts on protein function, so adding this as a feature allowed for the model to account for this difference. 
 
 ## fin! 
-it ran! here are the results:
+it ran! results:
+```
 Feature stats: 0.0 2.0 0.07568363315081336 0.2956770909132856
 Target stats: -1.45034831532026 0.285723457825962 -0.45698406900606603 0.39863930934731184
 epoch 20/200, loss: 0.0720, MAE: 0.2089, val loss: 0.0602, val MAE: 0.1870
@@ -51,6 +52,7 @@ epoch 200/200, loss: 0.0399, MAE: 0.1506, val loss: 0.0372, val MAE: 0.1376
 test MAE: 0.1376
 Feature stats: 0.0 2.0 0.07568363315081336 0.2956770909132856
 Target stats: -1.45034831532026 0.285723457825962 -0.45698406900606603 0.39863930934731184
+```
 
 ## some rough conclusions and interpretations
 * test MAE of 0.1376 means that, on average, my model's predictions are off by about 0.14 units of binding fitness score
